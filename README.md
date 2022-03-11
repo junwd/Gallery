@@ -4,14 +4,6 @@
 
 # PicX 图床
 
-[![Author](https://img.shields.io/badge/author-XPoet-violet.svg)](https://github.com/XPoet)
-[![Release](https://img.shields.io/github/release/XPoet/picx.svg)](https://github.com/XPoet/picx/releases)
-[![License](https://img.shields.io/github/license/XPoet/picx.svg)](https://github.com/XPoet/picx/blob/master/LICENSE)
-[![Stars](https://img.shields.io/github/stars/XPoet/picx)](https://github.com/XPoet/picx)
-[![Issues](https://img.shields.io/github/issues/XPoet/picx)](https://github.com/XPoet/picx/issues)
-[![Deploy](https://github.com/XPoet/picx/workflows/deploy/badge.svg)](https://github.com/XPoet/picx/actions/workflows/deploy.yml)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-hotpink.svg)](https://github.com/lin-123/javascript)
-
 **[PicX](https://picx.xpoet.cn)** 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具
 
 
